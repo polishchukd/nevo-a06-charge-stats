@@ -5,13 +5,6 @@ app/out/
 *.class
 *.dex
 
-# Ключи подписи (секреты)
-app/keys/
-*.pk8
-*.x509.pem
-*.keystore
-*.jks
-
 # Локальные директории
 apks/
 in/
