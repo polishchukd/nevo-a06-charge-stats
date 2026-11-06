@@ -1,0 +1,24 @@
+# Артефакты сборки
+app/out/
+*.apk
+*.apk.idsig
+*.class
+*.dex
+
+# Ключи подписи (секреты)
+app/keys/
+*.pk8
+*.x509.pem
+*.keystore
+*.jks
+
+# Локальные директории
+apks/
+in/
+logs/
+tools/
+
+# Системные/редакторные файлы
+.DS_Store
+*.swp
+*~

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ===== LIGHT theme ===== -->
+    <color name="page_bg">#F4F7FB</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="thead_bg">#F3F7FD</color>
+    <color name="divider">#E6EBF2</color>
+    <color name="text_main">#16264A</color>
+    <color name="text_muted">#6B7A90</color>
+    <color name="icon_sq_bg">#DCE4F0</color>
+    <color name="seg_container">#DCE4F0</color>
+    <color name="seg_active">#C9D5E6</color>
+    <color name="badge_ac">#17A65B</color>
+    <color name="badge_dc">#FA7A06</color>
+    <color name="accent">#2563EB</color>
+    <color name="live">#F59E0B</color>
+    <color name="icon_on_dark">#FFFFFF</color>
+
+    <color name="field_bg">#F8FAFC</color>
+    <color name="field_border">#CBD5E1</color>
+    <color name="btn_save">#2563EB</color>
+</resources>
